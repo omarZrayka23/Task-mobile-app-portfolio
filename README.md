@@ -1,4 +1,3 @@
-# Task-mobile-app-portfolio
 # Task-mobile-app
 
 An offline-first construction task tracking app with two parts:
